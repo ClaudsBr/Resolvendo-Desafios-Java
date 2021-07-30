@@ -49,7 +49,7 @@ public class TesteDeSeleção {
         
         // procedimento e saida
         
-        if ((B > C) && (D > A) && ((C+D) > (A+B))&& (C > 0 && D >0)&&(A%2==0)){
+        if (B > C && D > A && C+D > A+B && C > 0 && D > 0 && A % 2 == 0){
             System.out.println("Valores aceitos");
         } else {
             System.out.println("Valores não aceitos");

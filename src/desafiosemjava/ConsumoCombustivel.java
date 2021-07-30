@@ -40,7 +40,7 @@ public class ConsumoCombustivel {
         //saida
         System.out.printf("%.3f km/l \n", consumoMedio);
         
-        
+        //fechamento
         entrada.close();
         
     }
