@@ -18,7 +18,7 @@ public class NumeroPerfeito {
         A entrada contém vários casos de teste. A primeira linha da entrada 
         contém um inteiro N (1 ≤ N ≤ 20), indicando o número de casos de teste 
         da entrada. Cada uma das N linhas seguintes contém um valor inteiro X 
-        (1 ≤ X ≤ 108), que pode ser ou não, um número perfeito.
+        (1 ≤ X ≤ 10^8), que pode ser ou não, um número perfeito.
                 
        Saída
 
