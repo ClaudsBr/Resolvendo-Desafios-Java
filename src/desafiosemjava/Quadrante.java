@@ -43,11 +43,8 @@ public class Quadrante {
                 System.out.println("terceiro");
             } else if (x > 0 && y < 0){
                 System.out.println("quarto");
-            } else{
-                break;
-            }
-            
-        } while(x != 0 || y != 0);
+            }             
+        } while(x != 0 && y != 0);
         
         
         
