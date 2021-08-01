@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package desafiosemjava;
+package desafiosuriemjava;
 
 import java.util.Scanner;
 

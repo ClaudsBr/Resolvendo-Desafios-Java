@@ -1,4 +1,4 @@
-package desafiosemjava;
+package desafiosuriemjava;
 
 import java.util.Scanner;
 
@@ -54,7 +54,7 @@ public class MenorEPosicao {
             }
         }
         
-        //saida
+        //Saída
         System.out.println("Menor valor: "+menor);
         System.out.println("Posição: "+posicao);
         
