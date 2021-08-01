@@ -1,4 +1,4 @@
-package desafiosuriemjava;
+package desafiosuri;
 
 import java.util.Scanner;
 
